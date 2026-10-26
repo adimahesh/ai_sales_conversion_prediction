@@ -1,0 +1,26 @@
+lead_source,industry,company_size,region,touchpoints,days_to_contact,website_visits,email_engagement,lead_score,deal_value
+Email Campaign,Technology,Small,North,1,16,3,1,94,5132.66
+Referral,Technology,Medium,West,7,22,4,10,13,3016.11
+Cold Call,Retail,Medium,North,7,14,3,5,62,5214.72
+Email Campaign,Retail,Medium,North,9,12,2,6,49,3908.1
+Website,Retail,Medium,South,7,24,4,4,73,8710.63
+Cold Call,Manufacturing,Small,South,3,24,4,7,35,1704.42
+Email Campaign,Finance,Small,South,5,6,7,8,94,1129.16
+Email Campaign,Manufacturing,Small,South,6,25,6,8,10,4603.8
+Website,Retail,Large,South,12,10,6,2,84,6267.94
+Referral,Healthcare,Small,West,7,4,2,6,54,4384.53
+Referral,Manufacturing,Large,East,8,27,1,8,56,5637.01
+Cold Call,Technology,Small,West,9,7,3,4,38,5123.2
+Email Campaign,Finance,Small,West,5,6,6,4,45,1390.95
+Email Campaign,Manufacturing,Small,East,12,8,5,6,49,4371.26
+Referral,Retail,Small,West,9,15,5,6,38,8569.01
+Website,Manufacturing,Medium,North,11,5,5,2,11,4071.02
+LinkedIn,Technology,Medium,West,9,4,6,10,46,1553.91
+Website,Finance,Small,South,8,12,3,6,46,2930.69
+Email Campaign,Retail,Medium,East,1,6,3,6,75,5228.56
+LinkedIn,Retail,Medium,North,8,5,6,2,52,11697.84
+Email Campaign,Manufacturing,Large,North,2,28,5,7,60,1020.83
+Referral,Finance,Large,West,8,18,4,10,52,4604.55
+Cold Call,Retail,Medium,South,9,0,5,7,48,1986.37
+Cold Call,Finance,Large,North,7,3,2,5,75,5064.56
+Email Campaign,Manufacturing,Medium,East,4,25,2,7,71,5335.25
