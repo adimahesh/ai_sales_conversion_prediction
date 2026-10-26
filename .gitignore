@@ -3,6 +3,4 @@ __pycache__/
 .venv/
 venv/
 .env
-models/*.joblib
-reports/*.png
 .DS_Store
